@@ -53,13 +53,13 @@ Make sure you have the following installed:
 3. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    or
 
    ```bash
-   yarn start
+   yarn dev
    ```
 
 4. Open your browser and navigate to `http://localhost:5173`.
